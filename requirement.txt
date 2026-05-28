@@ -4,3 +4,4 @@ pickle
 streamlit
 openpyxl
 plotly
+sklearn
